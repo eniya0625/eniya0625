@@ -1,4 +1,37 @@
-## Hi there 👋
+## Hi, I'm kamalini
+### **👤My profile**
+#### 📌 **Personal Information**
+          🦩 Name: Kamalini
+          🪧 Place: Dindigul,Tamil Nadu,India.
+          🎓 Qualification: B.Tech Information Technology
+          🏫 College : NPR college of engineering and technology
+          📩 Mail Id : kamalisenthil037@gmail.com
+#### 💪**Strengths**
+###### 🚀*Quick learner*
+###### 🗣️*Good communication skills*
+###### 🤝*team player*
+###### 🧩*problem-solving skills*
+
+### 🌟Personal Motto
+      "learning never stops,and consistency leads to success"✨
+### 🧠 Skills
+      🦋 c
+      🦋 c++
+      🦋 python
+##### 🖥️Full stackdevelopment
+      🦋 HTML
+      🦋 CSS
+         
+### 🥅 Goals
+##### Short term goals:
+         🪶To gain hands-on experience in IT field like web development,software engineering.
+##### Long term goals:
+         🪶To build a successful carrer in the IT industry.
+###  🥳 Hobbies
+          🎶 Listening to songs
+          📖Reading books
+                   
+         # Hi there 👋
 
 <!--
 **eniya0625/eniya0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
