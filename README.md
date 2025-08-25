@@ -1,4 +1,9 @@
 ## Hi, I'm kamalini
+
+### About me                   
+- 🎯 Focused on performance, accessibility, and clean code
+- 💡 Constant learner and open-source contributor         
+
 ### **👤My profile**
 #### 📌 **Personal Information**
           🦩 Name: Kamalini
@@ -44,9 +49,7 @@
 ###  🥳 Hobbies
           🎶 Listening to songs
           📖Reading books
-### about me                   
-- 🎯 Focused on performance, accessibility, and clean code
-- 💡 Constant learner and open-source contributor         
+         
 
 <!--
 **eniya0625/eniya0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
