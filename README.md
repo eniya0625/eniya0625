@@ -2,9 +2,13 @@
 ### **👤My profile**
 #### 📌 **Personal Information**
           🦩 Name: Kamalini
+          
           🪧 Place: Dindigul,Tamil Nadu,India.
+          
           🎓 Qualification: B.Tech Information Technology
+          
           🏫 College : NPR college of engineering and technology
+          
           📩 Mail Id : kamalisenthil037@gmail.com
 #### 💪**Strengths**
 ###### 🚀*Quick learner*
@@ -15,11 +19,14 @@
 ### 🌟Personal Motto
       "learning never stops,and consistency leads to success"✨
 ### 🧠 Skills
-      🦋 c
+      🦋 C
+      
       🦋 c++
+      
       🦋 python
 ##### 🖥️Full stackdevelopment
       🦋 HTML
+      
       🦋 CSS
          
 ### 🥅 Goals
