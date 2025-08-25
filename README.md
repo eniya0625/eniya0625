@@ -1,6 +1,6 @@
 ## Hi, I'm kamalini
 
-### About me                   
+### About Me                   
 - 🎯 Focused on performance, accessibility, and clean code
 - 💡 Constant learner and open-source contributor         
 
