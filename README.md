@@ -38,7 +38,7 @@
           🎶 Listening to songs
           📖Reading books
                    
-         # Hi there 👋
+         
 
 <!--
 **eniya0625/eniya0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
