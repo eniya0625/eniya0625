@@ -28,7 +28,14 @@
       🦋 HTML
       
       🦋 CSS
-         
+
+##### 💻 Tech Stack
+
+| Tech             | Proficiency |
+|------------------|-------------|
+| HTML5 / CSS3     | ⭐⭐⭐⭐⭐       |
+| JavaScript (ES6+) | ⭐⭐⭐⭐⭐       | 
+
 ### 🥅 Goals
 ##### Short term goals:
          🪶To gain hands-on experience in IT field like web development,software engineering.
@@ -37,8 +44,9 @@
 ###  🥳 Hobbies
           🎶 Listening to songs
           📖Reading books
-                   
-         
+### about me                   
+- 🎯 Focused on performance, accessibility, and clean code
+- 💡 Constant learner and open-source contributor         
 
 <!--
 **eniya0625/eniya0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
